@@ -1,1 +1,1 @@
-list1=
+print("Hi, Welcome")
